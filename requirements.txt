@@ -1,5 +1,4 @@
 Django==1.11.24
-pytz==2019.3
 Pillow~=5.4.1
 chardet
 colorama~=0.2.5
@@ -13,7 +12,7 @@ olefile~=0.44
 psycopg2~=2.7.3.1
 pycurl~=7.19.3
 python-dateutil~=2.6.1
-pytz~=2017.2
+pytz==2019.3
 requests
 six
 stripe~=1.70.0
